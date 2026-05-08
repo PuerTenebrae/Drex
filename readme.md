@@ -42,7 +42,7 @@ Soporta descarga como MP3 (audio) o MP4 (video), con conversión automática ví
 
 ## Preview
 
-*(screenshot pendiente)*
+(https://github.com/PuerTenebrae/Drex/blob/main/screenshot.png)
 
 ---
 
