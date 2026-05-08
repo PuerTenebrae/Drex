@@ -1,7 +1,7 @@
 # Drex
 
-Descargador de música y video con interfaz gráfica construida sobre yt-dlp y ffmpeg. 
-Pegás un link de YouTube, SoundCloud, o cualquier sitio compatible con yt-dlp, elegís el formato, y descarga directo a la carpeta que configuraste. 
+Descargador de música y video con interfaz gráfica construida sobre yt-dlp y ffmpeg.  
+Pegás un link de YouTube, SoundCloud, o cualquier sitio compatible con yt-dlp, elegís el formato, y descarga directo a la carpeta que configuraste.  
 
 yt-dlp maneja la descarga, ffmpeg la conversión a MP3 o MP4.
 
@@ -64,8 +64,8 @@ pyinstaller --onefile --windowed main.py
 
 # Drex
 
-Music and video downloader with a GUI built on top of yt-dlp and ffmpeg. 
-Paste a link from YouTube, SoundCloud, or any yt-dlp-compatible site, pick a format, and it downloads straight to your configured folder.
+Music and video downloader with a GUI built on top of yt-dlp and ffmpeg.  
+Paste a link from YouTube, SoundCloud, or any yt-dlp-compatible site, pick a format, and it downloads straight to your configured folder.  
 
 yt-dlp handles the downloading, ffmpeg handles the conversion to MP3 or MP4.
 
