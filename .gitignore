@@ -2,3 +2,6 @@ dist/
 build/
 .venv/
 __pycache__/
+*.spec
+*.exe
+1
